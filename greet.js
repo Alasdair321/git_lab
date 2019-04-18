@@ -4,3 +4,5 @@ const greet = (name = "World") => {
 
 
 //changes made on feature/add_default_param
+
+//KAT MADE CHANGES 
