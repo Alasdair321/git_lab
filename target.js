@@ -4,4 +4,8 @@ const target = function (target) {
 
 target(alasdair);
 
+<<<<<<< HEAD
 //Sorry 
+=======
+//Sorry
+>>>>>>> develop
